@@ -1,4 +1,3 @@
-
 # 🛒 Carrito de Compras con HTML, CSS y JavaScript
 
 Este proyecto es una aplicación web interactiva que simula un carrito de compras. Permite a los usuarios explorar productos, agregarlos al carrito, modificar cantidades, vaciar el carrito y simular una compra. Además, incluye funcionalidades modernas como modo oscuro, búsqueda de productos, y almacenamiento en local.
@@ -66,3 +65,9 @@ Desarrollador web en formación apasionado por crear soluciones interactivas.
 ## 🗂️ Licencia
 
 Este proyecto está bajo la Licencia MIT - puedes usarlo libremente con atribución.
+
+---
+
+📫 **Contacto**  
+- Correo: aquilesfabianmendozatasayco@gmail.com  
+- LinkedIn: [Aquiles Fabián Mendoza Tasayco](https://www.linkedin.com/in/aquiles-fabian-mendoza-tasayco-55b56b316/)
