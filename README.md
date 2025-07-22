@@ -57,8 +57,8 @@ carrito-js/
 
 👤 **Aquiles Fabián Mendoza Tasayco**  
 Desarrollador web en formación apasionado por crear soluciones interactivas.  
-🔗 [Mi LinkedIn](https://www.linkedin.com/in/aquilesmendoza)  
-📧 aquiles.mendoza@email.com
+🔗 [Mi LinkedIn]([https://www.linkedin.com/in/aquilesmendoza](https://www.linkedin.com/in/aquiles-fabian-mendoza-tasayco-55b56b316))  
+📧 aquilesfabianmendozatasayco@gmail.com  
 
 ---
 
